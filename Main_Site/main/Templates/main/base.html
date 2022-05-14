@@ -1,0 +1,17 @@
+{% load static %}
+<html>
+<head>
+    <title>{% block title %}Webcup{% endblock %}</title>
+    <link rel="stylesheet" href="{% static 'main/style.css' %}" type="text/css" media="screen">
+</head>
+
+<body>
+    <div id="content" name="content">
+	{% block content %}
+	{% endblock %}
+    </div>
+
+    <p>Hello world</p>
+
+</body>
+</html>
