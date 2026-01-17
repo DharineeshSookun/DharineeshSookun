@@ -1,6 +1,5 @@
 - 👋 I’m @DharineeshSookun
 - 👀 I dabble in Software, AI, Web and Mobile app development
-- 🌱 Currently completing A levels
 - 📫 How to reach me via email: sookundharineesh@gmail.com 
 
 <!---
