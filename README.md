@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DharineeshSookun
-- 👀 I’m interested in software, web and mobile app development
-- 🌱 I’m currently completing my A level exams
+- 👀 I’m interested in Software, AI, Web and Mobile app development
+- 🌱 Currently completing A levels
 - 📫 How to reach me via email: sookundharineesh@gmail.com 
 
 <!---
